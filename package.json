@@ -1,0 +1,16 @@
+{
+  "name": "jslicense-bsd-2-clause",
+  "description": "the Two-Clause (\"Simplified\") BSD License",
+  "version": "0.0.0-prerelease",
+  "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
+  "bugs": "https://github.com/jslicense/jslicense-bsd-2-clause/issues",
+  "homepage": "https://jslicense.github.io",
+  "keywords": [
+    "BSD-2-Clause",
+    "jslicense",
+    "license"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "repository": "jslicense/bsd-2-clause"
+}
