@@ -1,6 +1,6 @@
 {
   "name": "jslicense-bsd-2-clause",
-  "description": "the Two-Clause (\"Simplified\") BSD License",
+  "description": "the Two-Clause (\"Simplified\") BSD License in jslicense format",
   "version": "0.1.0",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (http://kemitchell.com)",
   "bugs": "https://github.com/jslicense/jslicense-bsd-2-clause/issues",
